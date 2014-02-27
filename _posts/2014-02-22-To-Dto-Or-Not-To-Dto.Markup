@@ -1,0 +1,12 @@
+﻿---
+layout: post
+title: Blogging Like a Hacker
+---
+
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+  </head>
+  <body
+</html>
